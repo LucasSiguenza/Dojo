@@ -28,22 +28,21 @@ led, led_dos, tiempo, tiempo_dos son parametros que pasamos a las funciones para
 Los leds son asignados a través del hashtag define a los pines a los cuales están conectados.
 
 ```C++ 
-void encender(int led, int led_dos, int tiempo)
+void encenderDosLed(int led_uno, int led_dos,int tiempo)
 {
-  digitalWrite(led, HIGH);
-  digitalWrite(led_dos, HIGH);
+  digitalWrite(led_uno, 1);
+  digitalWrite(led_dos, 1);
   delay(tiempo);
 }
-
-void apagar(int led, int led_dos, int tiempo_dos)
+void apagarDosLed(int led_uno, int led_dos,int tiempo)
 {
-  digitalWrite(led, LOW);
-  digitalWrite(led_dos, LOW);
-  delay(tiempo_dos);
+  digitalWrite(led_uno, 0);
+  digitalWrite(led_dos, 0);
+  delay(tiempo);
 }
 
 ```
 
 ## LINK AL PROYECTO
 
-* [proyecto](https://www.tinkercad.com/things/i2CBQSHZGLf-copy-of-brave-hillar-bombul/editel?sharecode=MPb9SxTbzHUjMsSWyZcr3BQnK4RgUTSg-Y6jfeaZM7s)
+* [proyecto](https://www.tinkercad.com/things/i2CBQSHZGLf-dojo-1-1/editel?sharecode=MPb9SxTbzHUjMsSWyZcr3BQnK4RgUTSg-Y6jfeaZM7s)
