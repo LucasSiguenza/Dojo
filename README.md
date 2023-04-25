@@ -11,7 +11,7 @@
 
 ## PROYECTO: DOJO 1-1
 
-![IMAGEN DEL PROYECTO](link de la imagen del proyecto de TINKERCAD)
+![IMAGEN DEL PROYECTO](https://i.im.ge/2023/04/25/LbesZT.FotoFulvo.png)
 
 ## DESCRIPCIÓN
 
@@ -46,4 +46,4 @@ void apagar(int led, int led_dos, int tiempo_dos)
 
 ## LINK AL PROYECTO
 
-* [proyecto](link aca adentro)
+* [proyecto](https://www.tinkercad.com/things/i2CBQSHZGLf-copy-of-brave-hillar-bombul/editel?sharecode=MPb9SxTbzHUjMsSWyZcr3BQnK4RgUTSg-Y6jfeaZM7s)
