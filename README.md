@@ -46,3 +46,7 @@ void apagarDosLed(int led_uno, int led_dos,int tiempo)
 ## LINK AL PROYECTO
 
 * [proyecto](https://www.tinkercad.com/things/i2CBQSHZGLf-dojo-1-1/editel?sharecode=MPb9SxTbzHUjMsSWyZcr3BQnK4RgUTSg-Y6jfeaZM7s)
+----------------------------------------------------------------------------------------------------------------------------------
+#DOJO 1-2
+#DESCRIPCIÓN
+*[Proyecto](https://www.tinkercad.com/things/eGYqkp8Cdgp-dojo-1-2-con-sueno/editel?sharecode=QBdMOxAWkjos47bNTdN34RYt6imzijOwldFQFdhOoTc)
