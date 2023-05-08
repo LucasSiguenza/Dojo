@@ -47,6 +47,13 @@ void apagarDosLed(int led_uno, int led_dos,int tiempo)
 
 * [proyecto](https://www.tinkercad.com/things/i2CBQSHZGLf-dojo-1-1/editel?sharecode=MPb9SxTbzHUjMsSWyZcr3BQnK4RgUTSg-Y6jfeaZM7s)
 ----------------------------------------------------------------------------------------------------------------------------------
-#DOJO 1-2
-#DESCRIPCIÓN
+# DOJO 1-2
+# DESCRIPCIÓN
+Usando el mismo código de base, agregar: 
+  •Durante el amarillo: Tiene que sonar 1 vez por segundo en un tono SUAVE. 
+  •Al cambiar de verde a amarillo debe titilar 3 veces el verde antes de pasar al amarillo
+  •Al cambiar de amarillo a rojo se debe titilar 3 veces el amarillo
+  •Al cambiar de rojo a Amarillo se debe titilar 3 veces el rojo
+  •Al cambiar de amarillo a verde se debe titilar 3 veces el amarillo.
+
 *[Proyecto](https://www.tinkercad.com/things/eGYqkp8Cdgp-dojo-1-2-con-sueno/editel?sharecode=QBdMOxAWkjos47bNTdN34RYt6imzijOwldFQFdhOoTc)
